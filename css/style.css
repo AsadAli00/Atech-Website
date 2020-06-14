@@ -183,7 +183,7 @@ body {
   .Aboutcontent1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
       height: 350px;
-      width: 350px;
+      width: fit-content;
       text-align: center;
       background-color: #D48166;
 
@@ -237,7 +237,7 @@ body {
     margin-top: 20px;
      margin-right: 30px;
      height: 150px;
-     width: 500px;
+     width: fit-content;
     border: none;
     font-size: 20px;
     color: #D48166;
