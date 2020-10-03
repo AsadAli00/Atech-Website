@@ -7,7 +7,7 @@ body {
 .navbar {
     background-color: #D48166 !important;
     display: flex;
-    justify-content: center;
+    justify-content: space-between !important;
     align-items: center;
 }
 .navbar-brand {
@@ -15,7 +15,7 @@ body {
     color: white !important;
     font-size:x-large;
     font-weight: bolder;
-    margin: auto;
+    /* margin: auto; */
 }
 .navbar-brand:hover {
     color: #373A36 !important;
