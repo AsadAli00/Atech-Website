@@ -170,10 +170,12 @@ body {
     padding: 15px;
     border-radius: 10px; 
     font-size: 18px; 
+
   }
   
   #myBtn:hover {
     background-color:#373A36; 
+    visibility: visible;
   }
   .AboutMain{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
